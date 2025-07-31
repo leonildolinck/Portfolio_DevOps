@@ -24,6 +24,6 @@ Todos os projetos seguem boas práticas de provisionamento, versionamento e auto
 
  * [Desafio 3 Avanti Bootcamp [**DOCKER**]](https://github.com/leonildolinck/Avanti-DevOps-Desafio-3) Projeto completo de microsserviços desenvolvido com ```Docker``` e imagens publicadas no Docker Hub. Implementei containers para back-end, front-end e banco de dados, cada um com seu próprio Dockerfile. Adotei boas práticas de versionamento e organização para garantir a escalabilidade e a reutilização dos serviços.
 
- * [Desafio 4 Avanti Bootcamp [**CI/CD**]](https://github.com/leonildolinck/Avanti-DevOps-Desafio-3) Neste projeto implementei uma pipeline de CI/CD utilizando ```GitHub Actions```, que realiza testes, build, push da imagem para o Docker Hub e provisionamento automatizado com Terraform. O deploy é feito na plataforma Koyeb, com backend remoto no Terraform Cloud. Adicionei uma etapa de destruição da infraestrutura com aprovação manual, promovendo controle e segurança no ciclo de vida da aplicação.
-
+ * [Desafio 4 Avanti Bootcamp [**CI/CD**]](https://github.com/leonildolinck/Avanti-DevOps-Desafio-4) Neste projeto implementei uma pipeline de CI/CD utilizando ```GitHub Actions```, que realiza testes, build, push da imagem para o Docker Hub e provisionamento automatizado com Terraform. O deploy é feito na plataforma Koyeb, com backend remoto no Terraform Cloud. Adicionei uma etapa de destruição da infraestrutura com aprovação manual, promovendo controle e segurança no ciclo de vida da aplicação.
+* [Desafio Final Avanti Bootcamp [**DEMODAY**]](https://github.com/leonildolinck/Avanti-DevOps-Desafio-DEMODAY) Neste projeto criamos uma aplicação inteira do zero, incluindo testes, build e deploy em serviços cloud.
 
